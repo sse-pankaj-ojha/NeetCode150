@@ -3,6 +3,8 @@ package ArraysAndHashing;
 import java.util.HashSet;
 import java.util.Set;
 
+//https://leetcode.com/problems/contains-duplicate/description/
+//217. Contains Duplicate
 public class ContainsDuplicate {
     static void main() {
         int[] nums = {1,2,3,4};

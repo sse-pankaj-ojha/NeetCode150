@@ -2,6 +2,8 @@ package ArraysAndHashing;
 
 import java.util.*;
 
+//https://leetcode.com/problems/top-k-frequent-elements/description/
+//347. Top K Frequent Elements
 public class TopKFrequentElements {
     static void main() {
         int[] nums = {1, 1, 1, 2, 2, 3};

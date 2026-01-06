@@ -2,6 +2,8 @@ package ArraysAndHashing;
 
 import java.util.Arrays;
 
+//https://leetcode.com/problems/product-of-array-except-self/description/
+//238. Product of Array Except Self
 public class ProductArray {
     static void main() {
         int[] nums = {1,2,3,4};

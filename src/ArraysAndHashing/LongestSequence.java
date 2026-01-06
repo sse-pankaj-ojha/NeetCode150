@@ -1,9 +1,10 @@
 package ArraysAndHashing;
 
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
+//https://leetcode.com/problems/longest-consecutive-sequence/description/
+//128. Longest Consecutive Sequence
 public class LongestSequence {
     static void main() {
         int[]  nums = {100,4,200,1,3,2};

@@ -2,6 +2,8 @@ package ArraysAndHashing;
 
 import java.util.Arrays;
 
+//https://leetcode.com/problems/valid-anagram/description/
+//242. Valid Anagram
 public class ValidAnagram {
 
     static void main() {

@@ -1,7 +1,8 @@
 package ArraysAndHashing;
 
 import java.util.HashSet;
-
+//https://leetcode.com/problems/valid-sudoku/description/
+//36. Valid Sudoku
 //https://youtu.be/j1Cs6rF6wYs?si=PzD2Av-gWn_zJGNJ
 public class ValidSudoku {
     static void main() {

@@ -2,6 +2,8 @@ package ArraysAndHashing;
 
 import java.util.*;
 
+//https://leetcode.com/problems/group-anagrams/description/
+//49. Group Anagrams
 public class GroupAnagrams {
     static void main() {
         String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
