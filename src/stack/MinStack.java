@@ -2,6 +2,8 @@ package stack;
 
 import java.util.Stack;
 
+//https://leetcode.com/problems/min-stack/description/
+//155. Min Stack
 public class MinStack {
     static void main() {
         MinStack minStack = new MinStack();

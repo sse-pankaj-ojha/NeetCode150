@@ -2,6 +2,8 @@ package stack;
 
 import java.util.Stack;
 
+//https://leetcode.com/problems/valid-parentheses/
+//20. Valid Parentheses
 public class ValidParentheses {
     static void main() {
         String s = "()";
